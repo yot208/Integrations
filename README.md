@@ -89,7 +89,7 @@ Rapid7
 
 Secdo
 
-symantec SEP
+Symantec SEP
 
 ServiceNow
 
@@ -97,11 +97,15 @@ Slack
 
 SysAid
 
+Trendmicro
+
 URLtoIP
 
 Virus total
 
 VMware Vcenter
+
+VMray
 
 Webhose.io
 
