@@ -5,6 +5,12 @@ Active directory
 
 Algosec
 
+Alexa
+
+Hybrid analysis
+
+Microsogt graph
+
 AlienVaultOtx
 
 ArcSight logger
@@ -43,6 +49,8 @@ Intezer
 
 IOC Extractor
 
+Jira
+
 Mcafee Epo
 
 Mcafee Ips
@@ -62,6 +70,10 @@ Nmap
 Okta
 
 Paloalto
+
+Pagerduty
+
+Pessive total
 
 Phishtank
 
@@ -87,7 +99,7 @@ SysAid
 
 URLtoIP
 
-Virus Total
+Virus total
 
 VMware Vcenter
 
@@ -95,7 +107,7 @@ Webhose.io
 
 Whois
 
-Xforce
+Xforce IBM
 
 list of Integration as seim:
 
