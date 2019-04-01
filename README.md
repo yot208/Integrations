@@ -57,6 +57,8 @@ Mcafee Ips
 
 Metadefender
 
+MongoDB
+
 Ms-sql
 
 Mxtoolbox
@@ -69,7 +71,7 @@ Nmap
 
 Okta
 
-Paloalto
+Paloalto Firewall
 
 Pagerduty
 
@@ -101,6 +103,8 @@ Trendmicro
 
 URLtoIP
 
+Urlscan.io
+
 Virus total
 
 VMware Vcenter
@@ -115,16 +119,16 @@ Xforce IBM
 
 list of Integration as siem:
 
+Alienvault central
+
 ArcSight
-
-Qradar
-
-Solarwinds
 
 Connectwise
 
-Alienvault central
+Gmail
 
 Office365
 
-Gmail
+Solarwinds
+
+Qradar
