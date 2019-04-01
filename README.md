@@ -83,13 +83,13 @@ Postgre-sql
 
 Powershell
 
-Symantec ProxySG
-
 Rapid7
 
 Secdo
 
 Symantec SEP
+
+Symantec ProxySG
 
 ServiceNow
 
@@ -113,7 +113,7 @@ Whois
 
 Xforce IBM
 
-list of Integration as seim:
+list of Integration as siem:
 
 ArcSight
 
@@ -124,3 +124,7 @@ Solarwinds
 Connectwise
 
 Alienvault central
+
+Office365
+
+Gmail
