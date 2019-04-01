@@ -1,2 +1,2 @@
-# sendbox
-Get's list of sendbox
+# Integrations
+Get's list of cybersecurity
